@@ -1,1 +1,9 @@
 ./*kubeconfig.yaml
+admin-key-temp.pem
+admin-key.pem
+dashboard-key-temp.pem
+filebeat-key-temp.pem
+filebeat-key.pem
+*.pem
+wazuh-cluster-1-kubeconfig.yaml
+wazuh-cluster2-kubeconfig.yaml
